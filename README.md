@@ -1,2 +1,6 @@
-# Minst_digit_recogniser
-Minst_digit_recognition using cnn
+# **Title: Digit recogniser**
+## **1. Methodology**
+## **2. Description**
+## **3. Input / Output**
+## **4. Live link**
+## **5. Screenshot of the Interface**
