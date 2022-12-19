@@ -1,4 +1,4 @@
-# **Title: Digit recogniser**
+# **Title: Minst Digit recogniser**
 ## **1. Methodology**
 ## **2. Description**
 ## **3. Input / Output**
